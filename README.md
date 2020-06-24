@@ -8,7 +8,7 @@ Using a decision tree classifier, I constructed a model that can predict Spotify
 
 ![alt text](https://github.com/nphorsley59/Spotify_ML/blob/master/song_pref_hist.png "Song Preference by Feature")<br />
 
-**Figure 2.** Visual representation of the song preference decision tree.<br />
+**Figure 2.** Visual representation of a song preference decision tree.<br />
 
 ![alt text](https://github.com/nphorsley59/Spotify_ML/blob/master/dtree_01.png "Decision Tree Classifier")<br />
 
