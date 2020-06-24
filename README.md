@@ -1,4 +1,4 @@
-# Spotify Song Preference Project
+# Song Preference Analysis
 
 ### Project Overview
 
