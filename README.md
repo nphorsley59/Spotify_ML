@@ -13,5 +13,5 @@ Using a decision tree classifier, I constructed a model that can predict Spotify
 ![alt text](https://github.com/nphorsley59/Spotify_ML/blob/master/dtree_01.png "Decision Tree Classifier")<br />
 
 ### Resources
-<sup>1</sup> https://www.youtube.com/watch?v=v_sPnwoT_iA&t=1608s
+<sup>1</sup> https://www.youtube.com/watch?v=v_sPnwoT_iA&t=1608s<br />
 <sup>2</sup> https://www.kaggle.com/geomack/spotifyclassification
